@@ -1,0 +1,19 @@
+Answer Group 3:
+
+
+Tobias Florian 01526529
+tobiasflorian@tuwien.ac.at
+
+Amr Usama Abourayya 11944428
+e11944428@student.tuwien.ac.at
+
+Agyemang Safo Godfred  11944432
+e11944432@student.tuwien.ac.at
+
+Lukas Heisler
+no student ID yet. Admission pending
+
+
+
+
+Matrix A is symmetric. Therefore A = At. Therefore BtA = BtAt = (BA)t and BtAB is also symmetric. Additionally, BtAB is a diagonal matrix, where only the diagonal line is equipped. All other values are 0. The values are listed with a exponent of about e-16, which is lower than machine accuracy and therefore 0. 
